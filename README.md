@@ -1,5 +1,3 @@
-https://dkaty123.github.io/MarineMatchWeb/index.html
-
 🌊 MarineMatch: Visualize Marine Species and Conservation Efforts
 MarineMatch is an interactive platform designed to help users visualize marine species, their habitats, and the impact of overfishing and plastic pollution. The website allows users to explore different fish species, make informed decisions, and learn about conservation efforts through interactive visualizations.
 
