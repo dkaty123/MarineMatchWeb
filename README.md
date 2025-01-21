@@ -11,12 +11,15 @@ Version Control: Git
 Hosting: Netlify, GitHub Pages
 
 ✨ Features:
+
 Interactive visualization of marine species and their conservation status
 Detailed information about each species and its impact from overfishing and pollution
 Step-by-step guides for understanding marine conservation efforts
 User-friendly interface for identifying fish species using image recognition
 Educational resources on sustainable fishing practices
-👨‍💻 How to Use:
+
+👨‍💻 How to Use : 
+
 Select a species or group of species from the dropdown menu to explore.
 Upload or take a photo of marine life to identify its species using the app's recognition tool.
 Learn about the species' conservation status and the environmental impacts affecting them.
