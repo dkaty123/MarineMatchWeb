@@ -10,7 +10,7 @@ Version Control: Git
 
 Hosting: Netlify, GitHub Pages
 
-✨ Features:
+✨ Features :
 
 Interactive visualization of marine species and their conservation status
 Detailed information about each species and its impact from overfishing and pollution
