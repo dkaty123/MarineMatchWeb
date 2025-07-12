@@ -1,7 +1,7 @@
 # 🌊 MarineMatch  
 **AI-powered platform to identify marine species and promote ocean conservation.**
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ad8a2bf6-0696-4205-90a4-786d9769465f" />
+ ![image](https://github.com/user-attachments/assets/8a8a0f33-7e51-4813-b9d9-32408ef739a5)
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ae592eec-f89f-4926-9cb8-d777f2acdefe" />
 
@@ -19,7 +19,7 @@ MarineMatch is a cross-platform initiative designed to educate, empower, and eng
 
 It uses **image recognition** powered by computer vision to identify over **600+ marine species**, providing insights into **overfishing**, **plastic pollution**, and biodiversity loss.
 
- ![image](https://github.com/user-attachments/assets/8a8a0f33-7e51-4813-b9d9-32408ef739a5)
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ad8a2bf6-0696-4205-90a4-786d9769465f" />
 
 ---
 
