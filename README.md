@@ -9,7 +9,7 @@
 ---
 
 ## 🔍 Overview
-MarineMatch empowers users to identify over **60+ marine species** using **image recognition** while learning about their conservation status. Designed to raise awareness of **overfishing**, **plastic pollution**, and marine biodiversity, MarineMatch blends technology with education to protect our oceans.
+MarineMatch empowers users to identify over **600+ marine species** using **image recognition** while learning about their conservation status. Designed to raise awareness of **overfishing**, **plastic pollution**, and marine biodiversity, MarineMatch blends technology with education to protect our oceans.
 
 ---
 
