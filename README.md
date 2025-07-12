@@ -10,37 +10,80 @@
 [ **🥇Award Winner Article (National Youth Climate Awards)**](https://www.nationalycaa.org/2024-winners/dev-katyal)
 
 
----
-
 ## 🔍 Overview
-MarineMatch empowers users to identify over **600+ marine species** using **image recognition** while learning about their conservation status. Designed to raise awareness of **overfishing**, **plastic pollution**, and marine biodiversity, MarineMatch blends technology with education to protect our oceans.
+
+MarineMatch is a cross-platform initiative designed to educate, empower, and engage users in marine conservation.  
+It uses **image recognition** powered by computer vision to identify over **600+ marine species**, providing insights into **overfishing**, **plastic pollution**, and biodiversity loss.
+
+Developed as part of environmental and AI innovation initiatives, MarineMatch combines a **native Android application** with a responsive web app and integrates real-time AI classification, marine conservation datasets, and educational content.
 
 ---
 
 ## 🚀 Features
 
-- 🐟 **AI-Based Fish Identifier**  
-  Upload or capture an image to detect marine species instantly.
-- 🌍 **Interactive Marine Visualizations**  
-  Explore ecosystems, species status, and biodiversity impacts.
-- 📚 **Educational Resources**  
-  Learn sustainable fishing practices and real-world conservation tips.
-- 📉 **Impact Insights**  
-  Understand how plastic pollution and overfishing affect marine populations.
-- 🎯 **User-Friendly Design**  
-  Built for students, fishers, and ocean enthusiasts alike.
+### 🔬 AI-Powered Image Recognition
+- Built with **TensorFlow Lite** to classify **600+ fish species** locally on-device.
+- Trained on a curated dataset of marine species from government and NGO sources.
+- Optimized for **offline** and **low-bandwidth** environments.
+
+### 🌐 Cross-Platform Support
+- **Android Native App:** Built in **Java** using **Android Studio** with support for CameraX, file storage, and integrated TensorFlow Lite models.
+- **Web App:** Interactive marine visualization built using **HTML5**, **Tailwind CSS**, and **vanilla JavaScript**, deployed via **GitHub Pages** and **Netlify**.
+
+### 🐠 Interactive Species Guide
+- Select species by region, type, or conservation status.
+- Learn ecological roles, IUCN status, and human impact statistics.
+- Mobile app also caches species profiles for offline learning.
+
+### 📊 Ocean Impact Dashboard
+- Visualize how overfishing and plastic pollution are affecting biodiversity.
+- Dynamic graphs (coming soon) rendered with **Chart.js**.
+
+### 🧭 Educational Toolkit
+- Step-by-step conservation guides for youth and educators.
+- Infographics on sustainable seafood practices and marine laws.
+
+---
+
+## 🛠️ Tech Stack
+
+### 🔧 Mobile App
+
+| Component              | Details                                                                 |
+|------------------------|-------------------------------------------------------------------------|
+| Language               | Java (Android SDK 33)                                                   |
+| IDE                    | Android Studio with Gradle                                              |
+| Libraries              | TensorFlow Lite, CameraX, Glide, Material Design                        |
+| Model Format           | `.tflite` (quantized)                                                   |
+| Deployment             | Android APK (locally sideloaded or via Play Console)                   |
+| Storage                | RoomDB (for species info caching)                                       |
+
+### 🌐 Web App
+
+| Component              | Details                                                                 |
+|------------------------|-------------------------------------------------------------------------|
+| Markup/Style           | HTML5, Tailwind CSS                                                     |
+| Scripts                | Vanilla JavaScript (ES6+)                                               |
+| Deployment             | GitHub Pages / Netlify                                                  |
+| Visualization          | DOM-based SVG, future support for D3.js / Chart.js                     |
+
+---
 
 ## 📱 How It Works
 
-1. **Choose a Species**  
-   Use the dropdown to explore specific marine species or groups.
+1. **Explore Species (Web + Mobile)**  
+   Use the dropdown menu or map-based filter to explore marine biodiversity by region, type, or status.
 
-2. **Upload an Image**  
-   Use the mobile app to identify marine species via photo recognition.
+2. **Capture or Upload Image (Mobile Only)**  
+   Snap a photo of a fish species. The image is processed locally using a quantized neural network.
 
-3. **Learn and Act**  
-   Access detailed conservation info and sustainable practices for each species.
+3. **Classification & Feedback**  
+   The model returns the closest matching species label and confidence score.
 
+4. **Learn & Take Action**  
+   The app presents info on threats to the species and what conservation steps users can take.
+
+---
 
 ## 👥 Acknowledgements
 
