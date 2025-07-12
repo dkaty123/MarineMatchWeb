@@ -13,9 +13,8 @@
 ## 🔍 Overview
 
 MarineMatch is a cross-platform initiative designed to educate, empower, and engage users in marine conservation.  
-It uses **image recognition** powered by computer vision to identify over **600+ marine species**, providing insights into **overfishing**, **plastic pollution**, and biodiversity loss.
 
-Developed as part of environmental and AI innovation initiatives, MarineMatch combines a **native Android application** with a responsive web app and integrates real-time AI classification, marine conservation datasets, and educational content.
+It uses **image recognition** powered by computer vision to identify over **600+ marine species**, providing insights into **overfishing**, **plastic pollution**, and biodiversity loss.
 
 ---
 
