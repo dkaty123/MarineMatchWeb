@@ -20,7 +20,7 @@ It uses **image recognition** powered by computer vision to identify over **600+
 
 ## 🚀 Features
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/b191df3f-cc96-4ec9-8848-4e9813b9da00" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/296a8cba-408e-4445-b823-84ae32a33101" />
 
 ### 🔬 AI-Powered Image Recognition
 - Built with **TensorFlow Lite** to classify **600+ fish species** locally on-device.
